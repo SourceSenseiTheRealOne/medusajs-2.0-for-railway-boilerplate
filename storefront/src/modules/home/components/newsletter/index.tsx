@@ -14,7 +14,7 @@ const HomeNewsletter = () => {
             <br />
             THE SECOND RULE IS...
           </h2>
-          <Button variant="outline" className="border-red-500 text-red-500">
+          <Button className="border-red-500 text-red-500">
             READ MORE
           </Button>
         </div>
